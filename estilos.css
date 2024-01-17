@@ -1,0 +1,51 @@
+ul{color:green}
+
+nav ul{background: grey}
+
+div ul{background: yellow}
+
+div.contenedor1{background: blue}
+
+div.contenedor2{background: orange}
+
+div.contenedor3{background: pink}
+
+p{font-style: italic}
+
+div.contenedor3 p{font-size: 30px}
+
+
+
+
+
+
+
+
+
+
+
+/* SELECTORES:
+
+Universal  |                     *
+Etiqueta   |<h1> 	            |h1
+Clase      |class="nombre"      |.nombre
+
+
+ESPECIFICAR:
+
+<h1 class="nombre>"            
+<div class="nombre">
+.nombre{declaración}
+div.nombre{declaración}
+
+
+JUNTAR SELECTORES:
+
+div, section, h1, h2, p{declaración}
+section.nombre, h2.nombre, p{declaración}
+
+DENTRO DE ANDAMIENTO:
+
+div section article p{declaración}
+
+*/
